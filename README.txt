@@ -41,5 +41,5 @@ Add keys.txt to root level of the filesystem that will be running the program.
 
 #TODO
 1.Add SSH functionality
-
+2.Possibly add code to make adding keys easier
 
