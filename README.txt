@@ -36,6 +36,9 @@ ACCESS GRANTED LED - [*] [ ] GPIO 15 / RXD0
                  GND [ ] [ ] GPIO 21 / SCLK
                   Pin 39 Pin 40
 
+#IMPORTANt!!!
+Add keys.txt to root level of the filesystem that will be running the program.
+
 #TODO
 1.Add SSH functionality
 
